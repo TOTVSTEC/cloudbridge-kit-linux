@@ -1,0 +1,24 @@
+{
+  "name": "cloudbridge-kit-linux",
+  "version": "0.0.7-SNAPSHOT",
+  "description": "A tool for creating and developing CloudBridge mobile apps.",
+  "homepage": "http://www.totvs.com/",
+  "keywords": [
+    "cloudbridge",
+    "mobile",
+    "app",
+    "hybrid",
+    "linux"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/totvstec/cloudbridge-kit-linux.git"
+  },
+  "contributors": [
+    {
+      "name": "Rogerio Ribeiro da Cruz",
+      "email": "rogerio.ribeiro@totvs.com.br"
+    }
+  ],
+  "license": "MIT"
+}
