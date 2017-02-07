@@ -20,5 +20,13 @@
       "email": "rogerio.ribeiro@totvs.com.br"
     }
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "release": "totvstec release --npm-publish",
+    "release:minor": "totvstec release minor --npm-publish",
+    "release:major": "totvstec release major --npm-publish"
+  },
+  "devDependencies": {
+    "totvstec-tools": "^1.0.1"
+  }
 }
