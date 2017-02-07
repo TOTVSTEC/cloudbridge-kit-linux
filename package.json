@@ -22,9 +22,9 @@
   ],
   "license": "MIT",
   "scripts": {
-    "release": "totvstec release --npm-publish",
-    "release:minor": "totvstec release minor --npm-publish",
-    "release:major": "totvstec release major --npm-publish"
+    "release": "totvstec release",
+    "release:minor": "totvstec release minor",
+    "release:major": "totvstec release major"
   },
   "devDependencies": {
     "totvstec-tools": "^1.0.1"
